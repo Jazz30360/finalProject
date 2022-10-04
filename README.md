@@ -1,14 +1,12 @@
 # finalProject
 
 # Table of Contents
-------------------------------------------------------------------------------------------------
 
 1. Overview
 2. Product Spec
 3. Wireframes
 
 # Overview
--------------------------------------------------------------------------------------------------
 
 ## Description
 
@@ -30,7 +28,6 @@ downloaded by users. Larger potential for the app would be to incorporate other 
 Florida and then throughout the country.
 
 # Product Spec
--------------------------------------------------------------------------------------------------
 
 ## 1. User Stories (Required and Optional)
 
