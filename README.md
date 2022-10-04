@@ -1,3 +1,4 @@
+***
 # finalProject
 
 # Table of Contents
@@ -72,7 +73,23 @@ that there are currently no shuttles running
 
 ## 3. Navigation
 
-- 
+#### **Tab Navigation**
+
+- Home Screen
+- Favorites
+- Info
+- Profile
+
+#### **Flow Navigation**
+
+- Forced log-in -> automatically connects to/opens famu duo login (in-app) -> asks for 
+in-app location permissions if app has never been opened on the device OR alerts user that
+location services must be allowed if access was denied
+- Home Screen -> displays map and "quick" favorites list
+- Favorites -> 2 lists (tabs) one showing favorite stops, the other showing favorite routes
+- Info -> read-only display with all pertinent information and updates
+- Settings -> clickable list or dropdowns with each category -> personal info -> app settings
+-> permissions -> log out
 
 
 # Wireframes
@@ -80,6 +97,8 @@ that there are currently no shuttles running
 
 # Digital Wireframes & Mockups
 
+
+***
 
 **(END)**
 
