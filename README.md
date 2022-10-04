@@ -2,9 +2,9 @@
 
 # Table of Contents
 
-1. Overview
-2. Product Spec
-3. Wireframes
+1. [Overview](https://github.com/Jazz30360/finalProject/edit/main/README.md#overview)
+2. [Product Spec](https://github.com/Jazz30360/finalProject/edit/main/README.md#product-spec)
+3. [Wireframes](https://github.com/Jazz30360/finalProject/edit/main/README.md#3-navigation)
 
 # Overview
 
