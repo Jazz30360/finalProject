@@ -95,9 +95,25 @@ location services must be allowed if access was denied
 
 ## Wireframes
 
+[Paper Wireframe][1]
+
+[1]: https://github.com/Jazz30360/finalProject/blob/main/Paper%20Wireframe.jpg
 
 ## Digital Wireframes & Mockups
 
+[Digital Wireframe pg 1][2]<br>
+[Digital Wireframe pg 2][3]<br>
+[Digital Wireframe pg 3][4]<br>
+[Digital Wireframe pg 4][5]<br>
+[Digital Wireframe pg 5][6]<br>
+[Digital Wireframe pg 6][7]<br>
+
+[2]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_1.jpg
+[3]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_2.jpg
+[4]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_3.jpg
+[5]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_3.jpg
+[6]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_5.jpg
+[7]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_6.jpg
 
 ***
 
