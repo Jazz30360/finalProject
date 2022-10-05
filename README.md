@@ -40,6 +40,7 @@ Florida and then throughout the country.
 an active FAMU student/faculty member)
 - Home screen needs to display map of all venom shuttles with icons for each shuttle
 - Each icon should move in real-time based on each shuttle's movement
+- App will determine closest stop based on current location
 - Users can create and manipulate a "favorites" list
 - User can view their profile information and log out
 - User can view the schedule for each shuttle and see any changes or updates
