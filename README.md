@@ -44,7 +44,7 @@ an active FAMU student/faculty member)
 - Users can create and manipulate a "favorites" list
 - User can view their profile information and log out
 - User can view the schedule for each shuttle and see any changes or updates
-- User must allow location permissions
+- User must turn-on location permissions
 
 #### **Optional Nice-to-have Stories**
 
