@@ -124,6 +124,22 @@ location services must be allowed if access was denied
 
 #### Post 
 
+|Property|Type|Description|
+|---|---|---|
+|ex|ex|ex|
+|ex|ex|ex|
+|ex|ex|ex|
+|ex|ex|ex|
+
+### Networking
+
+#### List of network requests by screen
+
+- Login
+- Home Screen/ Main Screen
+- Favorites Screen
+- Info Screen
+- Profile Screen
 
 ***
 
