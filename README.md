@@ -153,7 +153,8 @@ location services must be allowed if access was denied
   
  #### [IF EXISTS:] Existing API Endpoints
   
-  ##### FAMU Duo Login API - https://api-XXXXXXXX.duosecurity.com
+  ##### FAMU Duo Login API 
+  - Base URL - https://api-XXXXXXXX.duosecurity.com
   
 |HTTP Verb|Endpoint|Description|
 |---|---|---|
