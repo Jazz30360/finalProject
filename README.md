@@ -117,7 +117,6 @@ location services must be allowed if access was denied
 [6]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_5.jpg
 [7]: https://github.com/Jazz30360/finalProject/blob/main/Digital%20Wireframes_Page_6.jpg
 
-***
 
 ## Schema
 
@@ -141,9 +140,15 @@ location services must be allowed if access was denied
 
 - Login
 - Home Screen/ Main Screen
+    - (Read/GET) Favorites list is retrieved to display "quick favorites" list
 - Favorites Screen
+  - (Create/POST) Empty favorites list generated once user logs in for the first time
+  - (Create/PUT) New stop is added to the favorites list
+  - (Delete) Stop is removed from favorties list
 - Info Screen
+    - 
 - Profile Screen
+    - (read/GET) Profile information is retrieved from DUO login API
 
 ***
 
