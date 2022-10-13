@@ -150,7 +150,7 @@ location services must be allowed if access was denied
 - Profile Screen
     - (read/GET) Profile information is retrieved from DUO login API
   
- #### *[IF EXISTS:]* Existing API Endpoints
+ #### [IF EXISTS:] Existing API Endpoints
   
   |HTTP Verb|Endpoint|Description|
 |---|---|---|
