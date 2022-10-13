@@ -139,8 +139,10 @@ location services must be allowed if access was denied
 #### List of network requests by screen
 
 - Login
+  - (Create/POST) 2 factor authentication to login user
 - Home Screen/ Main Screen
     - (Read/GET) Favorites list is retrieved to display "quick favorites" list
+    - (Create/POST) Map with venom shuttle icons is retrieved from Google Maps and displayed
 - Favorites Screen
   - (Create/POST) Empty favorites list generated once user logs in for the first time
   - (Create/PUT) New stop is added to the favorites list
