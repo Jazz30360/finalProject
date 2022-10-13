@@ -127,10 +127,13 @@ location services must be allowed if access was denied
 
 |Property|Type|Description|
 |---|---|---|
-|ex|ex|ex|
-|ex|ex|ex|
-|ex|ex|ex|
-|ex|ex|ex|
+|currentLocation|Geographical Point|stores the user's current location|
+|currentTime|DateTime|current date and time to determine arrivals and departures|
+|favoritesList|List|list of users' favorite stops|
+|permissionsAreOn|boolean|determines whether the user has their location permission settings on|
+|objectId|String|used to store the user's profile information (retrieved from Duo login)|
+|shuttleSchedules|ArrayList<String>|schedules for all shuttles|
+|closestStop|Geographical Point|closest stop to the user based on current location|
 
 ### Networking
 
