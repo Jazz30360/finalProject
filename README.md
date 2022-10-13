@@ -146,11 +146,16 @@ location services must be allowed if access was denied
   - (Create/PUT) New stop is added to the favorites list
   - (Delete) Stop is removed from favorties list
 - Info Screen
-    - 
+    - (Read/GET) Retrieve shuttle schedules to print to screen
+    - (Read/GET) Retrieve any changes/updates to print to screen
 - Profile Screen
-    - (read/GET) Profile information is retrieved from DUO login API
+    - (Read/GET) Profile information is retrieved from DUO login API
   
  #### *[IF EXISTS:]* Existing API Endpoints
+  
+  ##### FAMU Duo Login API
+  
+  - Base URL - https://api-XXXXXXXX.duosecurity.com
   
   |HTTP Verb|Endpoint|Description|
 |---|---|---|
