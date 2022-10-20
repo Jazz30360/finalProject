@@ -178,8 +178,9 @@ location services must be allowed if access was denied
   - Created parse database
   - Created Model skeletons
   - Created DUO Admin account
+  - See below:
 
-
+![](https://github.com/Jazz30360/finalProject/blob/main/Milestone3.gif)
 
 ***
 
