@@ -171,13 +171,15 @@ location services must be allowed if access was denied
 
 ## Milestone III
 
-- [] Updated status of issues in Project board (2pts)
+- [x] Updated status of issues in Project board (2pts)
 - [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
 - [x] Completed user stories checked-off in README (2pts)
-- [] Gifs created to show build progress and added to README (3pts)
+- [x] Gifs created to show build progress and added to README (3pts)
   - Created parse database
   - Created Model skeletons
   - Created DUO Admin account
+
+
 
 ***
 
