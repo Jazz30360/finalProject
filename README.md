@@ -37,23 +37,23 @@ Florida and then throughout the country.
 
 #### **Required Must-have Stories**
 
-- User must use FAMU credentials to log into app and gain access to the tracker (i.e user must be
+- [] User must use FAMU credentials to log into app and gain access to the tracker (i.e user must be
 an active FAMU student/faculty member)
-- Home screen needs to display map of all venom shuttles with icons for each shuttle
-- Each icon should move in real-time based on each shuttle's movement
-- App will determine closest stop based on current location
-- Users can create and manipulate a "favorites" list
-- User can view their profile information and log out
-- User can view the schedule for each shuttle and see any changes or updates
-- User must turn-on location permissions
+- [] Home screen needs to display map of all venom shuttles with icons for each shuttle
+- [] Each icon should move in real-time based on each shuttle's movement
+- [] App will determine closest stop based on current location
+- [] Users can create and manipulate a "favorites" list
+- [] User can view their profile information and log out
+- [] User can view the schedule for each shuttle and see any changes or updates
+- [] User must turn-on location permissions
 
 #### **Optional Nice-to-have Stories**
 
-- Once user has entered credentials and logged in 1 time, user will have the option to "remember
+- [] Once user has entered credentials and logged in 1 time, user will have the option to "remember
 me;" credentials will be saved for 30 days for faster sign in
-- Users can share routes with other users
-- Users can share their ETA based on route currently in progress or a future route
-- Multiple stops can be added during one route 
+- [] Users can share routes with other users
+- [] Users can share their ETA based on route currently in progress or a future route
+- [] Multiple stops can be added during one route 
 
 ### 2. Screens
 
@@ -167,6 +167,20 @@ location services must be allowed if access was denied
 |Post|/enroll_status|checks whether a user completes log in|
 |Post|/preauth|determines whether a user is authorized to log in|
 |Post|/auth|performs 2 factor authentication for the user|
+
+
+## Milestones
+
+- [x] Updated status of issues in Project board (2pts)
+- [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
+- [x] Completed user stories checked-off in README (2pts)
+- [x] Gifs created to show build progress and added to README (3pts)
+  - Created parse database
+  - Created Model skeletons
+  - Created DUO Admin account
+  - See below:
+
+![](https://github.com/Jazz30360/finalProject/blob/main/Milestone3.gif)
 
 ***
 
