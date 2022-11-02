@@ -169,7 +169,7 @@ location services must be allowed if access was denied
 |Post|/auth|performs 2 factor authentication for the user|
 
 
-## Milestone III
+## Milestones
 
 - [x] Updated status of issues in Project board (2pts)
 - [x] Sprint planned for next week (Issues created, assigned & added to project board) (3pts)
