@@ -181,6 +181,18 @@ location services must be allowed if access was denied
   - See below:
 
 ![](https://github.com/Jazz30360/finalProject/blob/main/Milestone3.gif)
+  
+- [x] Updated status of issues in Project board
+- [x] Sprint planned for next week (Issues created, assigned & added to project board)
+- [x] Completed user stories checked-off in README
+- [x] Gifs created to show build progress and added to README
+  - 
+  - 
+  - 
+  - See below:
+
+
+  - 
 
 ***
 
